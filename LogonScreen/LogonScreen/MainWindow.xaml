@@ -9,6 +9,7 @@
     <Grid>
         <Label x:Name="label" Content="test" HorizontalAlignment="Left" Height="73" Margin="131,95,0,0" VerticalAlignment="Top" Width="120"/>
         <Calendar HorizontalAlignment="Left" Margin="320,108,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="second change" HorizontalAlignment="Left" Height="67" Margin="56,23,0,0" VerticalAlignment="Top" Width="292"/>
 
     </Grid>
 </Window>
